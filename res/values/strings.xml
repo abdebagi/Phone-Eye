@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">عدسة الشاشة المكبرة</string>
+    <string name="grant_overlay">منح إذن الرسم فوق التطبيقات</string>
+    <string name="start_lens">تشغيل العدسة</string>
+    <string name="stop_lens">إيقاف العدسة</string>
+    <string name="capture_prompt">السماح بالتقاط الشاشة</string>
+</resources>
